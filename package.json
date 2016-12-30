@@ -1,0 +1,30 @@
+{
+  "name": "line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3nadav/shop_line.git"
+  },
+  "keywords": [
+    "shop",
+    "line"
+  ],
+  "author": "m3nadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3nadav/shop_line/issues"
+  },
+  "homepage": "https://github.com/m3nadav/shop_line#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-things": "0.2.0",
+    "mocha": "3.2.0",
+    "sinon": "1.17.6",
+    "sinon-chai": "2.8.0"
+  }
+}
