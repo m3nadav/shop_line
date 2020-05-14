@@ -23,8 +23,12 @@
   "devDependencies": {
     "chai": "3.5.0",
     "chai-things": "0.2.0",
+    "eslint": "3.12.2",
     "mocha": "3.2.0",
     "sinon": "1.17.6",
     "sinon-chai": "2.8.0"
+  },
+  "dependencies": {
+    "express": "4.14.0"
   }
 }
